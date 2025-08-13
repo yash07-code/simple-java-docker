@@ -1,4 +1,3 @@
-# stable official Java runtime base image
 FROM openjdk:17-jdk-alpine
 
 # metadata
